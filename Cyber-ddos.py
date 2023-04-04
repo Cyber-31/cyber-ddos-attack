@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Author   : ZIHAD ISLAM "
+print "Anther : Zihad islam"
 print "You Tube : https://youtube.com/@zihadmusicstudio4727"
 print "github   : https://github.com/Cyber-31"
 print "Facebook : https://www.facebook.com/link.chidaiya.lav.nai.abal.not"
